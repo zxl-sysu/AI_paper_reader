@@ -4,3 +4,4 @@ Markdown==3.7
 openai==1.82.0
 pandas==2.2.3
 streamlit==1.42.0
+PyMuPDF
